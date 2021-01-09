@@ -1,0 +1,20 @@
+.post{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 90%;
+    margin: 5%;
+    cursor: pointer;
+}
+
+.post-image{
+    width: 200px;
+    height: 133px;
+    object-fit: cover;
+}
+
+.post-title {
+    width: 500px;
+    text-align: left;
+    margin-top: 0;
+}
